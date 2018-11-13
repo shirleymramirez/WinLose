@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/WinLose/precache-manifest.39844e081f73149c3c440aa78a67e912.js"
+  "/WinLose/precache-manifest.f262ef5d1cd55dd3c6c1b243d1efdf29.js"
 );
 
 workbox.clientsClaim();

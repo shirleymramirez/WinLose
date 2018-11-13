@@ -1,13 +1,13 @@
 {
   "main.css": "/WinLose/static/css/main.7ac6d9c9.chunk.css",
-  "main.js": "/WinLose/static/js/main.2b299ca3.chunk.js",
-  "main.js.map": "/WinLose/static/js/main.2b299ca3.chunk.js.map",
+  "main.js": "/WinLose/static/js/main.4c457b88.chunk.js",
+  "main.js.map": "/WinLose/static/js/main.4c457b88.chunk.js.map",
   "static/js/1.c40ebc2d.chunk.js": "/WinLose/static/js/1.c40ebc2d.chunk.js",
   "static/js/1.c40ebc2d.chunk.js.map": "/WinLose/static/js/1.c40ebc2d.chunk.js.map",
   "runtime~main.js": "/WinLose/static/js/runtime~main.4f2a70ae.js",
   "runtime~main.js.map": "/WinLose/static/js/runtime~main.4f2a70ae.js.map",
   "static/css/main.7ac6d9c9.chunk.css.map": "/WinLose/static/css/main.7ac6d9c9.chunk.css.map",
   "index.html": "/WinLose/index.html",
-  "precache-manifest.39844e081f73149c3c440aa78a67e912.js": "/WinLose/precache-manifest.39844e081f73149c3c440aa78a67e912.js",
+  "precache-manifest.f262ef5d1cd55dd3c6c1b243d1efdf29.js": "/WinLose/precache-manifest.f262ef5d1cd55dd3c6c1b243d1efdf29.js",
   "service-worker.js": "/WinLose/service-worker.js"
 }
