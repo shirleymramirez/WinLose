@@ -1,14 +1,6 @@
 import React, { Component } from "react";
 import Results from "./Results";
 
-const containerStyle = {
-  width: 200,
-  height: 200,
-  marginLeft: "45%",
-  marginTop: 20,
-  backgroundColor: "yellow"
-};
-
 class GameOfChance extends Component {
   constructor(props) {
     super(props);
@@ -25,7 +17,25 @@ class GameOfChance extends Component {
   }
 
   render() {
+    let containerStyle = {
+      width: 200,
+      height: 200,
+      marginLeft: "45%",
+      marginTop: 20,
+      backgroundColor: "yellow"
+    };
+
     let expression = Math.random() > 0.5;
+
+    if (expression == 1) {
+      containerStyle = {
+        width: 200,
+        height: 200,
+        marginLeft: "45%",
+        marginTop: 20,
+        backgroundColor: "green"
+      };
+    }
     return (
       <div style={containerStyle}>
         <div>
